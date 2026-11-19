@@ -1,0 +1,4 @@
+depot_id,route_id,period,charger_ports,available_kwh,assigned_vehicle_ids
+D1,R1,AM,4,720,B01|B04
+D1,R1,PM,3,520,B01|B02
+D2,R2,AM,2,360,B03|B05
