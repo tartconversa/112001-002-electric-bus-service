@@ -1,5 +1,5 @@
-# Synthetic input data
+# 合成输入数据
 
-Synthetic fleet, scheduled service, charging and maintenance records for route-period comparisons.
+用于线路和时段比较的合成车辆、班次、充电及维修记录。
 
-All records are fictional and intended only for local development. Dates and measurements are illustrative.
+所有记录均为虚构，仅供本地开发使用。日期与数值均为示例。
