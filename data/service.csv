@@ -1,0 +1,4 @@
+trip_id,route_id,service_date,period,scheduled,completed,vehicle_id
+T101,R1,2026-04-02,AM,12,11,B01
+T102,R1,2026-04-02,PM,10,8,B02
+T201,R2,2026-04-02,AM,9,9,B03
