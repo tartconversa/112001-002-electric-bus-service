@@ -1,5 +1,7 @@
 dataset,records,purpose
 vehicles.csv,5,vehicles
-service.csv,3,service
-operations.csv,3,operations
-depot_constraints.csv,3,depot_constraints
+routes.csv,3,routes
+service.csv,7,service
+operations.csv,6,operations
+depot_constraints.csv,4,depot_constraints
+coverage_targets.csv,4,coverage_targets

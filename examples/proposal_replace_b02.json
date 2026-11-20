@@ -1,0 +1,18 @@
+{
+  "proposal_id": "P-2026-05-01",
+  "title": "R1 柴油车 B02 置换为纯电动车 B06",
+  "note": "B06 自 2026-04-01 起接替 B02 全部班次，载客能力保持一致",
+  "actions": [
+    {
+      "type": "replace_vehicle",
+      "vehicle_id": "B02",
+      "effective_from": "2026-04-01",
+      "with": {
+        "vehicle_id": "B06",
+        "powertrain": "battery_electric",
+        "battery_kwh": 320,
+        "capacity": 78
+      }
+    }
+  ]
+}

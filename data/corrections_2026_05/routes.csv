@@ -1,0 +1,4 @@
+route_id,route_name,effective_from,effective_to
+R1,环线1,2026-01-01,
+R2,快线2,2026-01-01,2026-04-14
+R2,快线2延伸段,2026-04-15,

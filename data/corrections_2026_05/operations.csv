@@ -1,0 +1,9 @@
+vehicle_id,date,charge_kwh,maintenance_minutes,reason
+B01,2026-04-02,188,0,
+B02,2026-04-02,0,95,engine_service
+B02,2026-04-03,0,0,
+B03,2026-04-02,142,40,charging_fault
+B03,2026-04-03,138,0,
+B05,2026-04-03,140,0,
+B01,2026-04-02,0,300,brake_repair_late
+B04,2026-04-03,150,0,

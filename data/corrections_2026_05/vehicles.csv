@@ -1,0 +1,6 @@
+vehicle_id,route_id,powertrain,battery_kwh,capacity,active_from,active_to
+B01,R1,battery_electric,320,80,2026-01-01,
+B02,R1,diesel,0,78,2025-01-01,
+B03,R2,battery_electric,280,75,2026-02-01,
+B04,R1,battery_electric,320,80,2026-03-01,
+B05,R2,battery_electric,280,75,2026-03-01,

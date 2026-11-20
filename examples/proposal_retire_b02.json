@@ -1,0 +1,12 @@
+{
+  "proposal_id": "P-2026-05-02",
+  "title": "B02 临时停驶（无替补车辆）",
+  "note": "用于演示停驶对高峰班次与服务覆盖的影响",
+  "actions": [
+    {
+      "type": "retire_vehicle",
+      "vehicle_id": "B02",
+      "effective_from": "2026-04-02"
+    }
+  ]
+}

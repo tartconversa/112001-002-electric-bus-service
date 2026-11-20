@@ -1,0 +1,5 @@
+route_id,period,required_trips,is_peak,effective_from,effective_to
+R1,AM,11,1,2026-01-01,
+R1,PM,9,1,2026-01-01,
+R2,AM,9,1,2026-01-01,
+R2,PM,7,1,2026-01-01,

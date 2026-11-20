@@ -1,0 +1,15 @@
+{
+  "proposal_id": "P-2026-05-03",
+  "title": "D1 场站充电时段安排",
+  "note": "B04 利用 04-02 上午空档补电，B01 利用 04-03 下午空档补电",
+  "actions": [
+    {
+      "type": "charging_plan",
+      "depot_id": "D1",
+      "entries": [
+        {"vehicle_id": "B04", "date": "2026-04-02", "period": "AM", "kwh": 150},
+        {"vehicle_id": "B01", "date": "2026-04-03", "period": "PM", "kwh": 200}
+      ]
+    }
+  ]
+}
